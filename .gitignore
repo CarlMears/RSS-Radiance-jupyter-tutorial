@@ -1,0 +1,5 @@
+*.pyc
+*/rss_plotting_CarlMears.egg-info/
+*/__pycache__/*
+build/*
+*/rss_plotting.egg-info/
